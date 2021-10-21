@@ -1,4 +1,3 @@
-console.log("sophia njeri kogi")
 
 
 const App = () => {
